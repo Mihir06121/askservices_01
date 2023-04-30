@@ -24,6 +24,23 @@
   color: white;
 }
 
+.home_banner_div {
+  position: relative;
+  height: 50vh;
+  background-image: url("./assects/home_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.home_banner_div-2 {
+  height: 50vh;
+  background-image: url("./assects/service-bg-2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
 .App-link {
   color: #61dafb;
 }
