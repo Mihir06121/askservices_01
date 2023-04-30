@@ -63,8 +63,7 @@ const Content = () => {
                             Aliquam dolor enim, sodales a tortor eu, tristique auctor nisi. Nam condimentum semper lacus
                         </p>
                         <div>
-                            <a href=""
-                            target="_blanck">
+                            <a>
                                 <button className="my-2 col-12 btn btn-sm btn-outline-primary rounded-pill" disabled>
                                     Click Here
                                 </button>
