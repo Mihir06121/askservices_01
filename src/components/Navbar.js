@@ -2,18 +2,14 @@ import {useState} from 'react';
 import PropTypes from 'prop-types';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
-import Typography from '@mui/material/Typography';
 import CssBaseline from '@mui/material/CssBaseline';
 import useScrollTrigger from '@mui/material/useScrollTrigger';
 import Box from '@mui/material/Box';
 import Slide from '@mui/material/Slide';
 import Drawer from '@mui/material/Drawer';
-import Divider from '@mui/material/Divider';
 import IconButton from '@mui/material/IconButton';
 import List from '@mui/material/List';
 import MenuIcon from '@mui/icons-material/Menu';
-import Button from '@mui/material/Button';
-import { Link, useLocation } from "react-router-dom"
 // import UE_Logo from "../assets/UE_logo.jpg"
 // const drawerWidth = 240;
 const navItems = [ 'AskMarketing', 'Installation Costing', 'Pre-sites survery request', 'Electric fence system design'];

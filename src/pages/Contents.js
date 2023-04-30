@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-const Content = ({navigation}) => {
+const Content = () => {
     return (
         <div className="">
             <div className="p-2 container-fluid bg-white shadow " style={{
